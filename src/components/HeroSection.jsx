@@ -25,8 +25,8 @@ const HeroSection = () => {
     return (
         <div className='bg-gray-100'>
 
-            <section className="bg-gray-100 sm:py-16 px-4 mx-auto">
-                <div className="container mx-auto text-center">
+            <section className="bg-gray-100 sm:py-16 px-4 mx-auto ">
+                <div className="container mx-auto text-center ">
                     <h1 className="text-4xl font-bold mb-4">Simplify Your Life with Our <br /> Todo App</h1>
                     <p className="text-lg mb-8">
                         Stay organized and boost your productivity with our intuitive todo website. <br />

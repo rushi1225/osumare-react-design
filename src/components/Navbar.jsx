@@ -14,9 +14,9 @@ const Navbar = () => {
         <nav className="bg-white">
             <div className="max-w-[1320px] mx-auto px-4 py-3 flex justify-between sm:justify-evenly items-center">
                 <div className="flex items-center">
-                    <div className='sm:w-24 sm:h-50 w-12 justify-start items-start align-start'>
+                    <div className='sm:w-20 sm:h-50 w-8 justify-start items-start align-start'>
 
-                        <a href="#"><img src="/logo.png" alt="Do List Logo" className="h-[100%]" /></a>
+                        <a href="#"><img src="/logo.png" alt="Do List Logo" className="h-[100%] " /></a>
                     </div>
                     {/* <span className="text-xl font-semibold ml-2">do List</span> */}
                 </div>
@@ -37,8 +37,8 @@ const Navbar = () => {
                 </div>
 
                 <div className="hidden md:flex gap-5">
-                    
-                        <button className="sm:w-[120px] bg-white text-red-500 px-4 py-2 rounded-md hover:text-white hover:bg-red-600 duration-700 border-2 border-red-500">Log In</button>
+
+                    <button className="sm:w-[120px] bg-white text-red-500 px-4 py-2 rounded-md hover:text-white hover:bg-red-600 duration-700 border-2 border-red-500">Log In</button>
                     <button className="sm:w-[120px] bg-red-500 text-white px-4 py-2 rounded-md hover:bg-red-600 duration-700">Sign Up</button>
                 </div>
             </div>

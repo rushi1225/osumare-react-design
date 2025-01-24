@@ -20,9 +20,9 @@ const AboutSection = () => {
                                     Turn clutter into clarity, chaos into control, and dreams into done. Bold visions into market success.
                                 </p>
                                 <div className="flex space-x-4 items-center justify-center">
-                                    <button className="border bg-white  text-black px-4 py-2 rounded-full duration-500">Get Started Today</button>
+                                    <button className="border bg-white  text-black px-4 py-2 rounded-full duration-500 w-[500px] sm:h-[50px] h-[100px] sm:w-[200px]">Get Started </button>
 
-                                    <button className="border border-red-500 px-4 py-2 rounded-full hover:bg-red-500 hover:text-white">
+                                    <button className="border border-red-500 px-4 py-2 rounded-full hover:bg-red-500 hover:text-white w-[500px] sm:h-[50px] h-[100px] sm:w-[200px]">
                                         Discover Features
                                     </button>
                                 </div>
