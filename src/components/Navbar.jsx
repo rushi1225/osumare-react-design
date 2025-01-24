@@ -16,7 +16,7 @@ const Navbar = () => {
                 <div className="flex items-center">
                     <div className='sm:w-24 sm:h-50 w-5 justify-start items-start align-start'>
 
-                        <a href="#"><img src="/logo.png" alt="Do List Logo" className="h-[100%]" /></a>
+                        <a href="#"><img src="/logo.png" alt="Do List Logo" className="h-[100%] sm:hidden" /></a>
                     </div>
                     {/* <span className="text-xl font-semibold ml-2">do List</span> */}
                 </div>
