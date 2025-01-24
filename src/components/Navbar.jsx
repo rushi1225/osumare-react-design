@@ -14,7 +14,7 @@ const Navbar = () => {
         <nav className="bg-white">
             <div className="max-w-[1320px] mx-auto px-4 py-3 flex justify-between sm:justify-evenly items-center">
                 <div className="flex items-center">
-                    <div className='sm:w-20 sm:h-50 w-8 justify-start items-start align-start'>
+                    <div className='sm:w-20 sm:h-50 w-8 h-5 justify-start items-start align-start'>
 
                         <a href="#"><img src="/logo.png" alt="Do List Logo" className="h-[100%]" /></a>
                     </div>
